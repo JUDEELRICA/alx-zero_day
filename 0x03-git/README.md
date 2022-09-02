@@ -1,1 +1,1 @@
-created my first branch and made some hot changes
+made a hot change in my branch
